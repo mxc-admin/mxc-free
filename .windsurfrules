@@ -1,0 +1,13 @@
+# [Your Project Name] — Windsurf Rules
+
+## Tool Routing (MANDATORY)
+- Code analysis, reviews, refactoring, generation, web research → `mcp0_*` cc tools
+- Mechanical edits ≤5 lines, file reads, shell commands → Cascade native tools
+- Heavy workflows OR "use cc2" → `mcp1_claude_code` (Claude Code Max — full autonomy, loads .claude/rules/ automatically)
+- Always prepend: `"Your work folder is /Users/YOUR_USERNAME/dev projects/YOUR_PROJECT\n\n"` before cc2 prompts
+
+## Rules (see .windsurf/rules/ for full detail)
+- `quant-quality.md` — algo/trading rules, constraint ranges, rejected approaches (Always On)
+- `code-quality.md` — Pine Script patterns and known bugs (Glob: **/*.pine)
+- `dev-rules.md` — development behavior and dual-file update protocol (Always On)
+- `tool-preferences.md` — 3-tier routing detail (Always On)
