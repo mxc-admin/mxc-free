@@ -16,7 +16,7 @@ That wasn't hindsight. Those signals fire in real time. Every one of them is on 
 
 **The difference between Market Pulse and everything else is simple**: other tools tell you the market is scared. Market Pulse tells you **when the fear is about to end** — and grades its conviction while doing it.
 
-> 📊 **`[VISUAL: Hero screenshot — full Market Pulse on SPX daily chart showing: green BULL regime background, 2-3 white bottom diamonds (Z, A, N) clustered near a recent low, fading green decay area, info table with BULL regime + confluence ✦. Annotate each element with callout arrows. Dark TradingView theme.]`**
+<img width="1200" height="670" alt="image" src="https://github.com/user-attachments/assets/b12bfca6-9f59-427e-bd42-cfe8c730ec06" />
 
 ---
 
