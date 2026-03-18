@@ -379,6 +379,9 @@ If a single signal has a 60% hit rate, two independent signals firing together h
 
 The ✦ appeared on Oct 13 — **15 calendar days before the regime flip confirmed the direction.** Confluence gave the early signal; regime gave the confirmation.
 
+<img width="1580" height="1728" alt="image" src="https://github.com/user-attachments/assets/de89dd7e-2ee4-4e07-bbcc-5c4668cbecaf" />
+
+
 > 📊 **`[VISUAL: Market Pulse chart on SPX daily, Oct 2022 period. Show the cluster of A, N, L diamonds firing within 3 bars. Green decay area stacking up. Info table showing confluence ✦. Green vertical line appearing ~2 weeks later. Annotate the timeline: "Confluence fires here" → "Regime confirms here" → "Rally accelerates here".]`**
 
 ### Trading Confluence
